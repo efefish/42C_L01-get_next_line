@@ -3,7 +3,9 @@
 ## Description
 
 
-|1    | A line has been read |
-|:---:|----------------------|
-|0    | EOF has been reached |
-|-1   |  An error happened   |
+### Return Value
+|  Return Value  | |
+|:----:|:----:|
+| 1 | A line has been read |
+| 0 | EOF has been reached |
+|-1 | An error happened    |
