@@ -4,6 +4,10 @@
 
      Write a function which returns a line read from a file descriptor, without the newline.
 
+## *Available Functions
+
+    read, malloc, free
+
 ## *Prototype
 
 ```c
