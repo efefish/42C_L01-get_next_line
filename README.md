@@ -1,9 +1,16 @@
 # 42Cursus project Level1 "get_next_line"
 
-## Description
+## *Description
 
+     Write a function which returns a line read from a file descriptor, without the newline.
 
-### Return Value
+## *Prototype
+
+```c
+int   get_next_line(int fd, char **line);
+```
+
+## *Return Value
 |  Return Value  | |
 |:----:|:----:|
 | 1 | A line has been read |
