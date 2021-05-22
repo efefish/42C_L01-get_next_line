@@ -2,7 +2,7 @@
 
 ## *Description
 
-     Write a function which returns a line read from a file descriptor, without the newline.
+     This is a function which returns a line read from a file descriptor, without the newline.
      This program must compile with the flag -D BUFFER_SIZE=xx. which will be used as the buffer size for the read calls in my get_next_line. 
 
 ## *Available Functions
